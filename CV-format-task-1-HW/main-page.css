@@ -1,0 +1,244 @@
+body {
+    background-color: #f1f1f1;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: content-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-page {
+    position: relative;
+    background-color: #f1f1f1;
+    margin-top: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+
+.left-aside {
+    color: #757575;
+    width: 35%;
+    height: auto;
+    background-color: white;
+    /* border: 1px solid black; */
+    box-shadow: 0px 0px 20px 0px rgb(201, 201, 201);
+    margin-right: 10px;
+}
+
+.img-for-header {
+    position: relative;
+}
+
+#img {
+    width: 100%;
+    height: auto;
+}
+
+.Marz-name {
+    position: absolute;
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 15px;
+    bottom: 0;
+}
+
+.icons {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+.icon-text {
+    font-size: 8px;
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.icon-size {
+    width: 8px;
+    padding: 10px 10px 10px 13px;
+    margin: 0;
+}
+
+.data-about-marz {
+    border-bottom: 2px solid #f1f1f1;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-bottom: 10px;
+}
+
+.icons-div-flex {
+    display: flex;
+}
+
+.back-div {
+    margin-left: 13px;
+    background-color: #f1f1f1;
+    width: 90%;
+    height: 11px;
+    border-radius: 10px;
+}
+
+#front-div-1 {
+    border-radius: 10px;
+    height: 100%;
+    width: 90%;
+    background-color: #009688;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+
+#front-div-2 {
+    border-radius: 10px;
+    height: 100%;
+    width: 80%;
+    background-color: #009688;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+
+#front-div-3 {
+    border-radius: 10px;
+    height: 100%;
+    width: 75%;
+    background-color: #009688;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+
+#front-div-4 {
+    border-radius: 10px;
+    height: 100%;
+    width: 50%;
+    background-color: #009688;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+
+.left-margin-aside {
+    margin-left: 13px;
+    font-size: 11px;
+}
+
+.back-div-2 {
+    margin-left: 13px;
+    background-color: #f1f1f1;
+    width: 90%;
+    height: 16px;
+    border-radius: 10px;
+}
+
+#front-div-5 {
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+    background-color: #009688;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+
+#front-div-6 {
+    border-radius: 10px;
+    height: 100%;
+    width: 60%;
+    background-color: #009688;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+
+#front-div-7 {
+    border-radius: 10px;
+    height: 100%;
+    width: 30%;
+    background-color: #009688;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+
+.aside-right-top {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 63%;
+    height: 49%;
+    background-color: white;
+    color: #757575;
+    box-shadow: 0px 0px 20px 0px rgb(201, 201, 201);
+}
+
+.aside-right-bottom {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 63%;
+    height: 49%;
+    background-color: white;
+    color: #757575;
+    box-shadow: 0px 0px 20px 0px rgb(201, 201, 201);
+}
+
+.title-right-page {
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+.right-aside-margin-left {
+    margin: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.current {
+    padding: 1px 3px 1px 3px;
+    background-color: #009688;
+    color: white;
+    border-radius: 2px;
+    height: 10px;
+    margin-left: 2px;
+    margin-top: 8px;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.bosh {
+    margin-top: 30px;
+}
+
+.bosh2 {
+    padding-bottom: 15px;
+}
+
+.icon-color {
+    fill: #009688;
+}
+
+.text-color {
+    color: #009688;
+}
+
+.footer {
+    width: 100%;
+    background-color: #009688;
+    fill: white;
+    color: white;
+    text-align: center;
+    font-size: 8px;
+}
+.footer-icon-size{
+    width: 8px;
+    margin-left: 2px;
+}
+.footer-icon-size:hover{
+    fill: #6dfff0;
+}
